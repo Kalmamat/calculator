@@ -9,7 +9,7 @@ button.forEach(function (btn){
 let num = ''
 let equation = ''
 let oneChk = false
-
+//
 
 function view(event) {
     const target = event.target.innerText
